@@ -1,4 +1,6 @@
 [PREDICTIVE_ANALYTICS_PROJECT-README_.docx](https://github.com/user-attachments/files/17452437/PREDICTIVE_ANALYTICS_PROJECT-README_.docx)
+
+
 **Objective:**
 
 The aim of this predictive model is to forecast high booking rates for Airbnb listings.  
